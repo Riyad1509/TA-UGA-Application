@@ -1,8 +1,7 @@
-# 🎓 Faculty Hub | TA Management Portal
+#TA Management Portal
 
-**Faculty Hub** is a web-based Teaching Assistant (TA) management system designed to simplify and organize TA recruitment, applicant shortlisting, and faculty administration.
 
-The project aims to provide an efficient, user-friendly platform for managing TA-related activities at **United International University (UIU)**.
+The project aims to provide an efficient, user-friendly platform for managing TA-related activities.
 
 ## 🚀 Features
 
@@ -58,7 +57,7 @@ Open XAMPP Control Panel and start:
 Open your browser and visit:
 
 ```text
-http://localhost/faculty-hub/
+http://localhost/TA_PORTAL/landing.html
 ```
 
 ## 🎯 Project Objectives
